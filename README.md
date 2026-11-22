@@ -1,21 +1,102 @@
-# 💫 About Me:
-### Hi, I'm Prashanth<br><br>I am a Cybersecurity graduate passionate about building secure and intelligent systems.<br><br>- B.Tech in Cybersecurity<br>- Interested in Cybersecurity, Ethical Hacking, SOC Operations and Digital Forensics<br>- Exploring AI and Machine Learning applications in Cybersecurity<br>- Developing XAI-SEC, an Explainable AI framework for Intrusion Detection and Malware Classification<br>- Learning Python, Linux, Wireshark, Nmap, Burp Suite and SIEM tools<br>- Interested in Open Source contributions and continuous learning<br><br>My goal is to develop practical cybersecurity solutions, strengthen my technical skills and contribute to a safer digital world.<br><br>Always learning. Always building.
+# PRASHANTH DESAI
+### Cybersecurity | AI Security | Open Source
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrashXploit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrashXploit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashXploit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrashXploit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Cybersecurity graduate focused on building secure, intelligent and practical technology solutions. Interested in exploring the intersection of Artificial Intelligence and Cybersecurity, developing security tools and contributing to open-source projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=PrashXploit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ABOUT ME
+
+- B.Tech graduate in Cybersecurity.
+- Interested in Security Operations, Ethical Hacking and Digital Forensics.
+- Exploring Artificial Intelligence and Machine Learning for cybersecurity applications.
+- Developing **XAI-SEC**, an Explainable AI framework for Intrusion Detection and Malware Classification.
+- Exploring network security, vulnerability assessment and security monitoring.
+- Continuously learning and improving through hands-on projects.
+
+**Current focus:** AI-powered threat detection, cybersecurity research and practical security engineering.
+
+---
+
+## TECHNICAL SKILLS
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+**Cybersecurity & Networking**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4D7775?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI & Machine Learning**
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-5A9?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Development & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## FEATURED PROJECT
+
+### XAI-SEC — Explainable AI for Cybersecurity
+
+An AI-powered cybersecurity project focused on:
+
+- Intrusion Detection System (IDS)
+- Malware Classification
+- Random Forest and XGBoost models
+- Explainable AI using SHAP and LIME
+- Interactive Streamlit dashboard
+
+[View Project Repository](https://github.com/PrashXploit/X)
+
+---
+
+## GITHUB STATISTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashXploit&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PrashXploit&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashXploit&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## AREAS OF INTEREST
+
+- Security Operations Center (SOC)
+- Threat Detection and Analysis
+- Network Security
+- Penetration Testing
+- Digital Forensics
+- AI-driven Cybersecurity
+- Cloud Security
+
+---
+
+## CONNECT WITH ME
+
+[![GitHub](https://img.shields.io/badge/GitHub-PrashXploit-181717?style=flat-square&logo=github)](https://github.com/PrashXploit)
+
+---
+
+*Building skills. Solving problems. Securing the digital world.*
