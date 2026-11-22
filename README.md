@@ -1,38 +1,21 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prashanth%20Desai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacking%20%7C%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" /> </div>
-Hi, I'm Prashanth 👋
+# 💫 About Me:
+### Hi, I'm Prashanth<br><br>I am a Cybersecurity graduate passionate about building secure and intelligent systems.<br><br>- B.Tech in Cybersecurity<br>- Interested in Cybersecurity, Ethical Hacking, SOC Operations and Digital Forensics<br>- Exploring AI and Machine Learning applications in Cybersecurity<br>- Developing XAI-SEC, an Explainable AI framework for Intrusion Detection and Malware Classification<br>- Learning Python, Linux, Wireshark, Nmap, Burp Suite and SIEM tools<br>- Interested in Open Source contributions and continuous learning<br><br>My goal is to develop practical cybersecurity solutions, strengthen my technical skills and contribute to a safer digital world.<br><br>Always learning. Always building.
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-Exploring ethical hacking & digital security, and building safer digital ecosystems.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PrashXploit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PrashXploit&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrashXploit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Featured Projects
-🛡️ cyber-securivox – Cybersecurity project. (add one line: what it does)
-📚 GIT-EDU – Git learning resource. (edit this line)
-📉 bankruptcy-prediction-ml – Machine learning model that predicts company bankruptcy risk.
-🧠 xai – Explainable AI project. (edit this line)
-What I'm Doing
-🔐 Learning ethical hacking – practicing on labs and CTF platforms
-🧪 Building security tools – small projects to learn how attacks and defences work
-🤖 Exploring AI + security – ML for threat and risk detection
-🌐 Growing my network – connecting with the security community on LinkedIn and GitHub
-Tech & Tools
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Show Image Show Image Show Image Show Image
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PrashXploit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-(Keep only the tools you actually use.)
+---
+[![](https://komarev.com/ghpvc/?username=PrashXploit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrashXploit&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashXploit&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashXploit&theme=tokyonight&hide_border=true" /> </div>
-Connect
-
-LinkedIn GitHub
-
-Philosophy
-
-"Learn how it breaks, so you can build it to last."
-
-<details> <summary>Random Facts</summary>
-🇮🇳 Based in India
-🐾 Curious about how things work, and how they break
-(add your own)
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
